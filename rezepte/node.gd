@@ -26,10 +26,8 @@ var strauecher = [e,f,h,j,l,m]
 var beeren = [a,b,p]
 var random = [c,i,k,n,o,q,r,s,t]
 
-func mixen(slot1: Node2D, slot2: Node2D, slot3: Node2D ) -> String:
-	 var mixenfertig = slot1.string_value
+func mixen(slot1: Node2D, slot2: Node2D,slot3: Node2D) -> String:
 	
-	itfififif
 	
 	
 	
